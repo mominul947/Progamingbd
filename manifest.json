@@ -1,0 +1,20 @@
+{
+  "name": "Pro gamingbd",
+  "short_name": "ProGaming",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976D2",
+  "icons": [
+    {
+      "src": "https://cdn.phototourl.com/free/2026-06-13-b040861d-9a38-41b7-abcd-62d9528aa9be.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "https://cdn.phototourl.com/free/2026-06-13-b040861d-9a38-41b7-abcd-62d9528aa9be.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ]
+}
